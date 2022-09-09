@@ -1,9 +1,6 @@
 <!--### Hi there 👋-->
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=owoyi)](https://solved.ac/owoyi)
-
-![Hoyun Kang's Stats](https://github-readme-stats.vercel.app/api?username=owoyi&count_private=true&hide=prs,contribs&show_icons=true&theme=tokyonight)
+![owoyi's Stats](https://github-readme-stats.vercel.app/api?username=owoyi)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=owoyi.owoyi)
 
