@@ -1,13 +1,9 @@
 <!--### Hi there 👋-->
 
-![Hoyun Kang's Stats](https://github-readme-stats.vercel.app/api?username=owoyi&count_private=true&hide=prs,contribs&show_icons=true&theme=tokyonight)
-<h3 align="left">Discord</h3>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=owoyi)](https://solved.ac/owoyi)
 
-<p align="left">
-  
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" />
- <b>오떱이#4940</b>
-</p> 
+![Hoyun Kang's Stats](https://github-readme-stats.vercel.app/api?username=owoyi&count_private=true&hide=prs,contribs&show_icons=true&theme=tokyonight)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=owoyi.owoyi)
 
