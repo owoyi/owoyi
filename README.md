@@ -35,8 +35,8 @@ I'm just Korean.
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-#### Other tools
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](https://www.docker.com/)
+#### Other
+[![Skript](https://www.spigotmc.org/data/resource_icons/114/114544.jpg?1705441800) Minecraft Skript  
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=fff)](https://www.jenkins.io/)
 
 </div>
