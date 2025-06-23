@@ -36,7 +36,7 @@ I'm just Korean.
 
 
 #### Other
-<img src="https://www.spigotmc.org/data/resource_icons/114/114544.jpg?1705441800" width="20px" height="20px"></img> Skript  
+<img src="https://www.spigotmc.org/data/resource_icons/114/114544.jpg?1705441800" width="40px" height="40px"></img> Minecraft Skript  
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=fff)](https://www.jenkins.io/)
 
 </div>
