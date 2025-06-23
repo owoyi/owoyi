@@ -36,8 +36,9 @@ I'm just Korean.
 
 
 #### Other
-<img src="https://www.spigotmc.org/data/resource_icons/114/114544.jpg?1705441800" width="15px" height="15px"></img> Skript  
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=fff)](https://www.jenkins.io/)
+<img src="https://www.spigotmc.org/data/resource_icons/114/114544.jpg?1705441800" width="15px" height="15px"></img> Minecraft Skript
+<img src="https://workshop.codes/assets/brand/icon-alt-75a65bfdd733d61bad1c20969438ed59c0d47ebf144ff3f488a9323ea2e96a88.png" width="15px" height="15px"></img> Overwatch Workshop
+
 
 </div>
 </details>
