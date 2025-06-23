@@ -4,7 +4,7 @@
 
 💬 Connect with me
 
-[![dc](https://dcbadge.limes.pink/api/shield/524980170554212363)]([https://d3sox.me/](https://discord.gg/S84RYwugDQ))
+[![dc](https://dcbadge.limes.pink/api/shield/524980170554212363?theme=discord-inverted)]([https://d3sox.me/](https://discord.gg/S84RYwugDQ))
 
 ---
 
