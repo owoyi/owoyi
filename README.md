@@ -2,6 +2,8 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=owoyi&show_icons=true&hide_border=true&title_color=fff&bg_color=161b22&text_color=c9d1d9&icon_color=58a6ff" alt="d3sox" />
 
+I'm just Korean. 
+
 💬 Connect with me
 
 [![dc](https://dcbadge.limes.pink/api/shield/524980170554212363?theme=discord-inverted)]([https://d3sox.me/](https://discord.gg/S84RYwugDQ))
